@@ -1,0 +1,3 @@
+﻿test('ejemplo: suma basica', () => {
+  expect(1 + 1).toBe(2);
+});
